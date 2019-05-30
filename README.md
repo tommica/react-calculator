@@ -1,3 +1,9 @@
+# [React calculator](https://www.tommicarleman.net/react-calculator)
+
+Just a simple project to play around with reactjs, where I ended up deciding to try out
+the classic test project - calculator! Fun to make, but I was suprised how some of the
+simple logic of a calculator was trickier than I expected - just think about it, how does a calculator work exactly when you press the buttons?
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
