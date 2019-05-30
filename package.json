@@ -2,7 +2,7 @@
   "name": "react-calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://tommica.github.io/react-calculator",
+  "homepage" : "https://www.tommicarleman.net/react-calculator",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
